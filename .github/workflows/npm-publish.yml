@@ -3,7 +3,7 @@ npm install @vooders/discord-bot-framework
 const Bot = require('@vooders/discord-bot-framework').Bot
 
 const config = {
-  "prefix": ".",
+  "prefix": "!",
   "token": "NzQ0NjkyNDc1Nzg4MDAxMzQy.Xzm66Q.hRy7EU3CFKGGryEUEI60LXoUp78"
 }
 
