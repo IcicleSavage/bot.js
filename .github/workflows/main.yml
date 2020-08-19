@@ -32,6 +32,3 @@ jobs:
     with:
     application-id: NzQ0NjkyNDc1Nzg4MDAxMzQy.Xzm66Q.OJYIKGmHsisuQEq2wyNHfWrSJ4Q
     bot-token: NzQ0NjkyNDc1Nzg4MDAxMzQy.Xzm66Q.OJYIKGmHsisuQEq2wyNHfWrSJ4Q
-      run: |
-        echo Add other actions to build,
-        echo test, and deploy your project.
