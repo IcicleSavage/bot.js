@@ -1,0 +1,16 @@
+$ npm install @vooders/discord-bot-framework@0.2.1
+npm install @vooders/discord-bot-framework
+const Bot = require('@vooders/discord-bot-framework').Bot
+
+const config = {
+  "prefix": ".",
+  "token": "NzQ0NjkyNDc1Nzg4MDAxMzQy.Xzm66Q.hRy7EU3CFKGGryEUEI60LXoUp78"
+}
+
+const bot = new Bot(config)
+
+try {
+  bot.start()
+} catch(error) {
+  console.log(error)
+}
