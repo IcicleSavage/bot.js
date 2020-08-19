@@ -1,0 +1,8 @@
+{
+“name”: “Jakey”,
+“version”: “1.0.0”,
+“description”: “Countdowns, Moderator, and more”,
+“main”: “bot.js”,
+“author”: “IcicleSavage”,
+“dependencies”: {}
+}

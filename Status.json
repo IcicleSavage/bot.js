@@ -1,0 +1,12 @@
+{
+  "op": 3,
+  "d": {
+    "since": 91879201,
+    "game": {
+      "name": "Counting",
+      "type": 0
+    },
+    "status": "online",
+    "afk": false
+  }
+}
